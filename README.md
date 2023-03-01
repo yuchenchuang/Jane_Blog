@@ -1,2 +1,2 @@
 # Jane_Blog
-A customize CMS
+A customized CMS.
